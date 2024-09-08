@@ -30,7 +30,7 @@ Here’s a preview of the Dice Game in action:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Gamferno/dice-game.git
+   git clone https://github.com/Gamferno/dicegame.git
    ```
 2. Open the `index.html` file in any web browser.
 3. Refresh the page to play the game! The dice rolls will change automatically, and the game will declare the winner based on the values of the dice.
