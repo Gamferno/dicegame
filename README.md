@@ -13,7 +13,7 @@ This is a simple Dice Game created using HTML, CSS, and JavaScript. Each time th
 ## Demo
 Here’s a preview of the Dice Game in action:
 
-![Dice Game Preview](./preview.png)
+![Dice Game Preview](./images/preview.png)
 
 ## Features
 - Displays two dice, one for Player 1 and one for Player 2.
