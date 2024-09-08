@@ -11,7 +11,7 @@ This is a simple Dice Game created using HTML, CSS, and JavaScript. Each time th
 - [License](#license)
 
 ## Demo
-Here’s a preview of the Dice Game in action:
+Here’s a [preview](https://gamferno.github.io/dicegame/) of the Dice Game in action:
 
 ![Dice Game Preview](./images/preview.png)
 
